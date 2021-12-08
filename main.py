@@ -1,7 +1,3 @@
-"""
-作者：it项目实例网
-网站：wwww.itprojects.cn
-"""
 
 import random
 import sys
