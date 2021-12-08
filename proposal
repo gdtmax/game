@@ -1,0 +1,16 @@
+My title will be Tank War Game
+TODO:My final project is mainly using Pygame model to create Tank War Game. The code is about 1000 lines, which is too long, but it is completed.
+
+TODO: First, I use several models like Pygame, system, and random. Because this is a game, I have to create a screen and define the size of screen from width and longth and words.
+After that, I will define the wizard group and add all brick wall instance objects to it. Then call the initialization method, so as to realize the necessary initialization operation. 
+The purpose of defining elf groups is to define various types, such as bullet types, tank types, scene types and so on.
+
+TODO: I use pycharm to make and debug the game. The final result should be to choose to start the game after running the program. 
+At this time, players can control the direction of tanks by controlling the front, back, left and right sides. 
+At this time, the enemy will also have tanks attacking our base camp constantly. What needs to be done is to guard the base camp and then destroy the enemy tanks.
+
+TODO:No matter what happens, I can open the game and let everyone see the results of my program. But the game experience may be poor, such as no background music, rough picture and some bugs.
+TODO:The best outcome would be a good game experience, after see my game, many players will think it would be a good game.
+
+TODO: My next step is going to finish some more detailed things. For example I am going to use if statement to judge more possbility for the game like the directions of tanks, and 
+also I will set the game background. Eventually the game will be tested whether it can run.
